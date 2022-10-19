@@ -1,6 +1,6 @@
 import pyautogui as pg
 import time
-print("program will rn i 3 sec")
+print("program will rn i test sec")
 time.sleep(5)
 a = 5
 for i in range(1,20):
